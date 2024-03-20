@@ -1,0 +1,440 @@
+{
+  "mode": {
+    "sections": [
+      {
+        "display_label": "Survey Details",
+        "sequence_number": 1,
+        "tab_traversal": 2,
+        "api_name": "Survey Details",
+        "column_count": 2,
+        "name": "Native__Survey__Extn__Survey_Details",
+        "section_fields": [
+          {
+            "sequence_number": 1,
+            "field": {
+              "api_name": "Native__Survey__Extn__Survey_Department"
+            }
+          },
+          {
+            "sequence_number": 3,
+            "field": {
+              "api_name": "Native__Survey__Extn__Survey_Type"
+            }
+          },
+          {
+            "sequence_number": 5,
+            "field": {
+              "api_name": "Native__Survey__Extn__Survey"
+            }
+          },
+          {
+            "sequence_number": 7,
+            "field": {
+              "api_name": "Native__Survey__Extn__Survey_URL"
+            }
+          },
+          {
+            "sequence_number": 9,
+            "field": {
+              "api_name": "Native__Survey__Extn__Department_ID"
+            }
+          }
+        ],
+        "type": "used"
+      },
+      {
+        "display_label": "Campaign Information",
+        "sequence_number": 2,
+        "tab_traversal": 2,
+        "api_name": "Campaign Information",
+        "column_count": 2,
+        "name": "Campaign Information",
+        "section_fields": [
+          {
+            "sequence_number": 1,
+            "field": {
+              "api_name": "Owner"
+            }
+          },
+          {
+            "sequence_number": 2,
+            "field": {
+              "api_name": "Type"
+            }
+          },
+          {
+            "sequence_number": 3,
+            "field": {
+              "api_name": "Campaign_Name"
+            }
+          },
+          {
+            "sequence_number": 4,
+            "field": {
+              "api_name": "Status"
+            }
+          },
+          {
+            "sequence_number": 5,
+            "field": {
+              "api_name": "Start_Date"
+            }
+          },
+          {
+            "sequence_number": 6,
+            "field": {
+              "api_name": "End_Date"
+            }
+          },
+          {
+            "sequence_number": 7,
+            "field": {
+              "api_name": "Expected_Revenue"
+            }
+          },
+          {
+            "sequence_number": 8,
+            "field": {
+              "api_name": "Budgeted_Cost"
+            }
+          },
+          {
+            "sequence_number": 9,
+            "field": {
+              "api_name": "Actual_Cost"
+            }
+          },
+          {
+            "sequence_number": 10,
+            "field": {
+              "api_name": "Expected_Response"
+            }
+          },
+          {
+            "sequence_number": 11,
+            "field": {
+              "api_name": "Num_sent"
+            }
+          },
+          {
+            "sequence_number": 12,
+            "field": {
+              "api_name": "Created_By"
+            }
+          },
+          {
+            "sequence_number": 13,
+            "field": {
+              "api_name": "Modified_By"
+            }
+          },
+          {
+            "sequence_number": 14,
+            "field": {
+              "api_name": "Created_Time"
+            }
+          },
+          {
+            "sequence_number": 15,
+            "field": {
+              "api_name": "Modified_Time"
+            }
+          },
+          {
+            "sequence_number": 15,
+            "field": {
+              "api_name": "Layout"
+            }
+          },
+          {
+            "sequence_number": 16,
+            "field": {
+              "api_name": "Tag"
+            }
+          },
+          {
+            "sequence_number": 23,
+            "field": {
+              "api_name": "Parent_Campaign"
+            }
+          },
+          {
+            "sequence_number": 24,
+            "field": {
+              "api_name": "id"
+            }
+          },
+          {
+            "sequence_number": 42,
+            "field": {
+              "api_name": "Record_Status__s"
+            }
+          }
+        ],
+        "type": "used"
+      },
+      {
+        "display_label": "Description Information",
+        "sequence_number": 3,
+        "tab_traversal": 1,
+        "api_name": "Description Information",
+        "column_count": 1,
+        "name": "Description Information",
+        "section_fields": [
+          {
+            "sequence_number": 1,
+            "field": {
+              "api_name": "Description"
+            }
+          }
+        ],
+        "type": "used"
+      }
+    ]
+  },
+  "show_business_card": true,
+  "api_name": "Zoho_Survey__s",
+  "name": "Zoho Survey",
+  "profile_properties": [
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    },
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Standard"
+      }
+    },
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Testing"
+      }
+    },
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "a1234567890123456789012345678901234567890123456789012"
+      }
+    }
+  ],
+  "source": "campaign_integration",
+  "fields": [
+    {
+      "field": {
+        "api_name": "Record_Status__s",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Native__Survey__Extn__Survey_Department",
+        "formula": null
+      },
+      "default_value": null,
+      "required": true
+    },
+    {
+      "field": {
+        "api_name": "Native__Survey__Extn__Survey_Type",
+        "formula": null
+      },
+      "default_value": null,
+      "required": true
+    },
+    {
+      "field": {
+        "api_name": "Native__Survey__Extn__Survey",
+        "formula": null
+      },
+      "default_value": null,
+      "required": true
+    },
+    {
+      "field": {
+        "api_name": "Native__Survey__Extn__Survey_URL",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Native__Survey__Extn__Department_ID",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Campaign_Name",
+        "formula": null
+      },
+      "default_value": null,
+      "required": true
+    },
+    {
+      "field": {
+        "api_name": "Status",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Start_Date",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "End_Date",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Expected_Revenue",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Budgeted_Cost",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Actual_Cost",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Expected_Response",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Num_sent",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Created_By",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Modified_By",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Created_Time",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Modified_Time",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Tag",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "id",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Owner",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Type",
+        "formula": null
+      },
+      "default_value": "Zoho Survey",
+      "required": true
+    },
+    {
+      "field": {
+        "api_name": "Description",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Parent_Campaign",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Layout",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    }
+  ],
+  "status": "active"
+}

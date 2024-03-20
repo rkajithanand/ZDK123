@@ -1,0 +1,380 @@
+{
+  "system_mandatory": false,
+  "associated_module": null,
+  "private": null,
+  "webhook": false,
+  "json_type": "string",
+  "crypt": null,
+  "field_label": "Data Source",
+  "tooltip": null,
+  "textarea": null,
+  "created_source": "default",
+  "type": "used",
+  "field_read_only": false,
+  "display_label": "Data Source",
+  "association_details": null,
+  "multi_module_lookup": null,
+  "currency": null,
+  "multiuserlookup": null,
+  "custom_field": false,
+  "filterable": true,
+  "hipaa_compliance": null,
+  "lookup": null,
+  "length": 120,
+  "profile_permissions": [
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    },
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "Standard"
+      }
+    },
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "Testing"
+      }
+    },
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "a1234567890123456789012345678901234567890123456789012"
+      }
+    }
+  ],
+  "pick_list_values_sorted_lexically": false,
+  "sortable": true,
+  "global_picklist": null,
+  "external": null,
+  "api_name": "Data_Source",
+  "unique": null,
+  "data_type": "picklist",
+  "formula": null,
+  "hipaa_compliance_enabled": false,
+  "decimal_place": null,
+  "multiselectlookup": null,
+  "pick_list_values": [
+    {
+      "display_value": "Manual",
+      "sequence_number": 1,
+      "actual_value": "Manual",
+      "type": "used"
+    },
+    {
+      "display_value": "API",
+      "sequence_number": 2,
+      "actual_value": "API",
+      "type": "used"
+    },
+    {
+      "display_value": "Manual (Mobile)",
+      "sequence_number": 3,
+      "actual_value": "Manual (Mobile)",
+      "type": "used"
+    },
+    {
+      "display_value": "Webform",
+      "sequence_number": 4,
+      "actual_value": "Webform",
+      "type": "used"
+    },
+    {
+      "display_value": "Microsoft Outlook",
+      "sequence_number": 5,
+      "actual_value": "Microsoft Outlook",
+      "type": "used"
+    },
+    {
+      "display_value": "Social",
+      "sequence_number": 6,
+      "actual_value": "Social",
+      "type": "used"
+    },
+    {
+      "display_value": "Workflow",
+      "sequence_number": 7,
+      "actual_value": "Workflow",
+      "type": "used"
+    },
+    {
+      "display_value": "Import",
+      "sequence_number": 8,
+      "actual_value": "Import",
+      "type": "used"
+    },
+    {
+      "display_value": "Bulk API",
+      "sequence_number": 9,
+      "actual_value": "Bulk Write",
+      "type": "used"
+    },
+    {
+      "display_value": "Migration",
+      "sequence_number": 10,
+      "actual_value": "Migration",
+      "type": "used"
+    },
+    {
+      "display_value": "Converted",
+      "sequence_number": 11,
+      "actual_value": "Converted",
+      "type": "used"
+    },
+    {
+      "display_value": "System Generated",
+      "sequence_number": 12,
+      "actual_value": "System Generated",
+      "type": "used"
+    },
+    {
+      "display_value": "Google Contact Sync",
+      "sequence_number": 13,
+      "actual_value": "Google",
+      "type": "used"
+    },
+    {
+      "display_value": "Office 365",
+      "sequence_number": 14,
+      "actual_value": "Microsoft",
+      "type": "used"
+    },
+    {
+      "display_value": "Phonebridge API",
+      "sequence_number": 15,
+      "actual_value": "Phonebridge API",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Docs",
+      "sequence_number": 16,
+      "actual_value": "Zoho Docs",
+      "type": "used"
+    },
+    {
+      "display_value": "Manual Mass Add",
+      "sequence_number": 17,
+      "actual_value": "Manual Mass Add",
+      "type": "used"
+    },
+    {
+      "display_value": "Sandbox",
+      "sequence_number": 18,
+      "actual_value": "Sandbox",
+      "type": "used"
+    },
+    {
+      "display_value": "Mail Parser",
+      "sequence_number": 19,
+      "actual_value": "Mail Parser",
+      "type": "used"
+    },
+    {
+      "display_value": "SalesInbox",
+      "sequence_number": 20,
+      "actual_value": "SalesInbox",
+      "type": "used"
+    },
+    {
+      "display_value": "Email Workflow",
+      "sequence_number": 21,
+      "actual_value": "Email workflow",
+      "type": "used"
+    },
+    {
+      "display_value": "BCC Dropbox",
+      "sequence_number": 22,
+      "actual_value": "BCC Dropbox",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Finance Suite",
+      "sequence_number": 23,
+      "actual_value": "Zoho Finance Suite",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Desk",
+      "sequence_number": 24,
+      "actual_value": "Zoho Desk",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Survey",
+      "sequence_number": 25,
+      "actual_value": "Zoho Survey",
+      "type": "used"
+    },
+    {
+      "display_value": "Google Ads",
+      "sequence_number": 26,
+      "actual_value": "Google Adwords",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho SalesIQ",
+      "sequence_number": 27,
+      "actual_value": "SalesIQ",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Mail",
+      "sequence_number": 28,
+      "actual_value": "Zoho Mail",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Forms",
+      "sequence_number": 29,
+      "actual_value": "Zoho Forms",
+      "type": "used"
+    },
+    {
+      "display_value": "Custom Function",
+      "sequence_number": 30,
+      "actual_value": "Custom Function",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Recruit",
+      "sequence_number": 31,
+      "actual_value": "Zoho Recruit",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Sheet View",
+      "sequence_number": 32,
+      "actual_value": "Zoho Sheet View",
+      "type": "used"
+    },
+    {
+      "display_value": "Sample Data",
+      "sequence_number": 33,
+      "actual_value": "Sample Data",
+      "type": "used"
+    },
+    {
+      "display_value": "Conversational AI ( Zia Voice )",
+      "sequence_number": 34,
+      "actual_value": "Zia Voice",
+      "type": "used"
+    },
+    {
+      "display_value": "Prediction",
+      "sequence_number": 35,
+      "actual_value": "Prediction",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Campaigns",
+      "sequence_number": 36,
+      "actual_value": "Zoho Campaign",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Webinar",
+      "sequence_number": 37,
+      "actual_value": "Zoho Webinar",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho Backstage",
+      "sequence_number": 38,
+      "actual_value": "Zoho Backstage",
+      "type": "used"
+    },
+    {
+      "display_value": "Blueprint",
+      "sequence_number": 39,
+      "actual_value": "Blueprint",
+      "type": "used"
+    },
+    {
+      "display_value": "Approval process",
+      "sequence_number": 40,
+      "actual_value": "ApprovalProcess",
+      "type": "used"
+    },
+    {
+      "display_value": "Macro",
+      "sequence_number": 41,
+      "actual_value": "Macro",
+      "type": "used"
+    },
+    {
+      "display_value": "Mass Transfer",
+      "sequence_number": 42,
+      "actual_value": "Mass Transfer",
+      "type": "used"
+    },
+    {
+      "display_value": "Change Owner",
+      "sequence_number": 43,
+      "actual_value": "Change Owner",
+      "type": "used"
+    },
+    {
+      "display_value": "Mass Update",
+      "sequence_number": 44,
+      "actual_value": "Mass Update",
+      "type": "used"
+    },
+    {
+      "display_value": "Deduplication",
+      "sequence_number": 45,
+      "actual_value": "DeDuplicate",
+      "type": "used"
+    },
+    {
+      "display_value": "Manual-Merge",
+      "sequence_number": 46,
+      "actual_value": "Find And Merge",
+      "type": "used"
+    },
+    {
+      "display_value": "Bigin",
+      "sequence_number": 47,
+      "actual_value": "Bigin",
+      "type": "used"
+    },
+    {
+      "display_value": "Zoho CRM",
+      "sequence_number": 48,
+      "actual_value": "Zoho CRM",
+      "type": "used"
+    },
+    {
+      "display_value": "Mailchimp",
+      "sequence_number": 49,
+      "actual_value": "Mailchimp",
+      "type": "used"
+    },
+    {
+      "display_value": "Constant Contact",
+      "sequence_number": 50,
+      "actual_value": "Constant Contact",
+      "type": "used"
+    },
+    {
+      "display_value": "EmailIn",
+      "sequence_number": 51,
+      "actual_value": "EmailIn",
+      "type": "used"
+    },
+    {
+      "display_value": "Kiosk",
+      "sequence_number": 52,
+      "actual_value": "Kiosk",
+      "type": "used"
+    }
+  ],
+  "auto_number": null
+}

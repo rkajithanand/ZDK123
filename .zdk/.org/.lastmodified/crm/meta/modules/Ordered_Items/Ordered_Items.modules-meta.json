@@ -1,0 +1,32 @@
+{
+  "visibility": 2,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Ordered Items",
+  "sequence_number": 56,
+  "api_supported": true,
+  "plural_label": "Ordered Items",
+  "api_name": "Ordered_Items",
+  "module_name": "OrderedItems",
+  "parent_module": {
+    "api_name": "Sales_Orders"
+  }
+}

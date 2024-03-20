@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/Users/ajith-6635/Documents/ZDK_GIT_TESTING/ZDK123/.zdk/.logs/.5041dff3b179c388fc452a57e0e1aa355dc7476e-audit.json",
+    "files": [
+        {
+            "date": 1710918644415,
+            "name": "/Users/ajith-6635/Documents/ZDK_GIT_TESTING/ZDK123/.zdk/.logs/ZDK-CLI-2024-03-20.log",
+            "hash": "b961233827e3f96a01c4be12d5a406ee325153c89b13509438fd6983e37ea7c1"
+        }
+    ],
+    "hashType": "sha256"
+}

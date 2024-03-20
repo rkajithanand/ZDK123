@@ -1,0 +1,30 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Full_Name"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Contact",
+  "sequence_number": 26,
+  "api_supported": true,
+  "plural_label": "Contacts",
+  "api_name": "Contacts",
+  "module_name": "Contacts",
+  "parent_module": null
+}

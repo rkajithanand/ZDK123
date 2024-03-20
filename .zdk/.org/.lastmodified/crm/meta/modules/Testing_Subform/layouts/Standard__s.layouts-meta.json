@@ -1,0 +1,96 @@
+{
+  "mode": {
+    "sections": [
+      {
+        "display_label": "Testing Subform 123 Information",
+        "sequence_number": 1,
+        "tab_traversal": 2,
+        "api_name": "Testing Subform 123 Information",
+        "column_count": 2,
+        "name": "LinkingModule2 Information",
+        "section_fields": [
+          {
+            "sequence_number": 1,
+            "field": {
+              "api_name": "Single_Line_1"
+            }
+          },
+          {
+            "sequence_number": 2,
+            "field": {
+              "api_name": "Number_1"
+            }
+          },
+          {
+            "sequence_number": 4,
+            "field": {
+              "api_name": "Single_Line_2"
+            }
+          }
+        ],
+        "type": "used"
+      }
+    ]
+  },
+  "show_business_card": true,
+  "api_name": "Standard__s",
+  "name": "Standard",
+  "profile_properties": [
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Testing"
+      }
+    },
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "a1234567890123456789012345678901234567890123456789012"
+      }
+    },
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    },
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Standard"
+      }
+    }
+  ],
+  "source": "crm",
+  "fields": [
+    {
+      "field": {
+        "api_name": "Single_Line_2",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Single_Line_1",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    },
+    {
+      "field": {
+        "api_name": "Number_1",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    }
+  ],
+  "status": "active"
+}

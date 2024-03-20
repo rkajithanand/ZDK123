@@ -1,0 +1,30 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Campaign_Name"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Campaign",
+  "sequence_number": 17,
+  "api_supported": true,
+  "plural_label": "Campaigns",
+  "api_name": "Campaigns",
+  "module_name": "Campaigns",
+  "parent_module": null
+}

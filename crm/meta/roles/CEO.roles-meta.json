@@ -1,0 +1,11 @@
+{
+  "display_label": "CEO",
+  "forecast_manager": {
+    "email": "ajithkumar.rk+git@zohotest.com"
+  },
+  "share_with_peers": true,
+  "api_name": "CEO",
+  "name": "CEO",
+  "description": "Users with this role have access to the data owned by all other users.",
+  "reporting_to": null
+}

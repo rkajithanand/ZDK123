@@ -1,0 +1,67 @@
+{
+  "system_mandatory": true,
+  "associated_module": null,
+  "private": null,
+  "webhook": true,
+  "json_type": "string",
+  "crypt": null,
+  "field_label": "Price Book Name",
+  "tooltip": null,
+  "textarea": null,
+  "created_source": "default",
+  "type": "used",
+  "field_read_only": false,
+  "display_label": "Price Book Name",
+  "association_details": null,
+  "multi_module_lookup": null,
+  "currency": null,
+  "multiuserlookup": null,
+  "custom_field": false,
+  "filterable": true,
+  "hipaa_compliance": null,
+  "lookup": null,
+  "length": 120,
+  "profile_permissions": [
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    },
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "Standard"
+      }
+    },
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "Testing"
+      }
+    },
+    {
+      "permission_type": "read_write",
+      "visible": true,
+      "profile": {
+        "api_name": "a1234567890123456789012345678901234567890123456789012"
+      }
+    }
+  ],
+  "pick_list_values_sorted_lexically": false,
+  "sortable": true,
+  "global_picklist": null,
+  "external": null,
+  "api_name": "Price_Book_Name",
+  "unique": null,
+  "data_type": "text",
+  "formula": null,
+  "hipaa_compliance_enabled": null,
+  "decimal_place": null,
+  "multiselectlookup": null,
+  "pick_list_values": null,
+  "auto_number": null
+}

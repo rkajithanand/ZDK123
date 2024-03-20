@@ -1,0 +1,28 @@
+{
+  "visibility": 2044,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Forecast Group",
+  "sequence_number": 85,
+  "api_supported": false,
+  "plural_label": "Forecast Groups",
+  "api_name": "Forecast_Groups",
+  "module_name": "Forecast Groups",
+  "parent_module": null
+}

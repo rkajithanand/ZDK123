@@ -1,0 +1,30 @@
+{
+  "visibility": 14334,
+  "profiles": [
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    },
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "ShiftHour",
+  "sequence_number": 52,
+  "api_supported": false,
+  "plural_label": "ShiftHours",
+  "api_name": "ShiftHours",
+  "module_name": "ShiftHours",
+  "parent_module": null
+}

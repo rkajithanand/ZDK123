@@ -1,0 +1,25 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": null,
+  "display_field": null,
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Social",
+  "sequence_number": 24,
+  "api_supported": false,
+  "plural_label": "Social",
+  "api_name": "Social",
+  "module_name": "Social",
+  "parent_module": null
+}

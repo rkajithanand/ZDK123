@@ -1,0 +1,28 @@
+{
+  "visibility": 2046,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": "contains monthly stats of data enrichment for an enabled module",
+  "display_field": null,
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Data Enrichment Stats",
+  "sequence_number": 0,
+  "api_supported": true,
+  "plural_label": "Data Enrichment Stats",
+  "api_name": "Data_Enrichment_Stats__s",
+  "module_name": "DataEnrichmentStats",
+  "parent_module": null
+}

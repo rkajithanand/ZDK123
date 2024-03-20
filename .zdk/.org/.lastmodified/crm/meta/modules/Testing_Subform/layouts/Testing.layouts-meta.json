@@ -1,0 +1,47 @@
+{
+  "mode": {
+    "sections": [
+      {
+        "display_label": "Testing Subform 123 Information",
+        "sequence_number": 1,
+        "tab_traversal": 2,
+        "api_name": "Testing Subform 123 Information",
+        "column_count": 2,
+        "name": "LinkingModule2 Information",
+        "section_fields": [
+          {
+            "sequence_number": 1,
+            "field": {
+              "api_name": "Number_1"
+            }
+          }
+        ],
+        "type": "used"
+      }
+    ]
+  },
+  "show_business_card": true,
+  "api_name": "Testing",
+  "name": "Testing 123",
+  "profile_properties": [
+    {
+      "default": false,
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    }
+  ],
+  "source": "crm",
+  "fields": [
+    {
+      "field": {
+        "api_name": "Number_1",
+        "formula": null
+      },
+      "default_value": null,
+      "required": false
+    }
+  ],
+  "status": "active"
+}

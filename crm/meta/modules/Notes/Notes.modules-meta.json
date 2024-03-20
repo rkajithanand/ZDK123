@@ -1,0 +1,30 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    },
+    {
+      "api_name": "Standard"
+    },
+    {
+      "api_name": "Testing"
+    },
+    {
+      "api_name": "a1234567890123456789012345678901234567890123456789012"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Note_Title"
+  },
+  "show_as_tab": false,
+  "web_link": null,
+  "singular_label": "Note",
+  "sequence_number": 32,
+  "api_supported": true,
+  "plural_label": "Notes",
+  "api_name": "Notes",
+  "module_name": "Notes",
+  "parent_module": null
+}

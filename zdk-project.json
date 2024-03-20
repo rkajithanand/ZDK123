@@ -1,0 +1,12 @@
+{
+    "meta_directory": [
+        {
+            "path": "crm",
+            "default": true
+        }
+    ],
+    "name": "ZDK123",
+    "accounts_url": "https://accounts.csez.zohocorpin.com",
+    "domain_url": "https://sandbox.csez.zohocorpin.com:7001",
+    "api_version": "6"
+}

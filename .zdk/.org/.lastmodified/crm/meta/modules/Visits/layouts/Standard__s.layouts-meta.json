@@ -1,0 +1,36 @@
+{
+  "mode": {
+    "sections": null
+  },
+  "show_business_card": true,
+  "api_name": "Standard__s",
+  "name": "Standard",
+  "profile_properties": [
+    {
+      "default": true,
+      "visible": true,
+      "profile": {
+        "api_name": "Testing"
+      }
+    },
+    {
+      "default": true,
+      "visible": true,
+      "profile": {
+        "api_name": "a1234567890123456789012345678901234567890123456789012"
+      }
+    },
+    {
+      "default": true,
+      "visible": true,
+      "profile": {
+        "api_name": "Administrator"
+      }
+    }
+  ],
+  "source": "crm",
+  "fields": {
+    "_data": null
+  },
+  "status": "active"
+}
